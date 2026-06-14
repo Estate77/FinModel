@@ -28,9 +28,11 @@ npx serve .
 
 ## 公网访问（GitHub Pages）
 
-本仓库配置为 GitHub Pages 用户站点（`Estate77.github.io`），地址：
+本仓库（`Estate77/FinModel`）配置为 GitHub Pages 项目站点，地址：
 
-> https://Estate77.github.io/
+> https://estate77.github.io/FinModel/
+
+> 注：本仓库原名 `Estate77.github.io`（用户站点），重命名后变为项目站点。如需恢复顶级域名 `https://estate77.github.io/`，需新建一个 `Estate77.github.io` 仓库。
 
 ### 部署步骤
 
