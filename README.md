@@ -1,4 +1,4 @@
-# FinModel 优品金融模型官网
+# FinModel金融模型官网
 
 一个面向金融场景的智能体 / 模型 / 数据 (MCP) 平台官方主页示例站点，基于 Vue 3 + Tailwind CSS 单文件实现。
 
